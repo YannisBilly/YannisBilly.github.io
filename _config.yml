@@ -56,7 +56,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  /images/fatsa.png
+teaser                   : # add image
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
