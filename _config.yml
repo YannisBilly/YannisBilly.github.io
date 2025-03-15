@@ -27,7 +27,6 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "London, United Kingdom"
-  uri              : # URL
   email            : "i.vasilakis@qmul.ac.uk" 
 
   # Academic websites
@@ -57,7 +56,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  /images/fatsa.png
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
